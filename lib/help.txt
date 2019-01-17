@@ -30,3 +30,5 @@ Source code   :   https://github.com/Rob--W/cors-anywhere/
 Documentation :   https://github.com/Rob--W/cors-anywhere/#documentation
 
 <a href='http://pingability.com'>Website Uptime Monitoring By Pingability.com</a>
+
+[http://pingability.com](Website Uptime Monitoring By Pingability.com)
